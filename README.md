@@ -1,4 +1,4 @@
-# AISolver for solving NS equation!
+# AISolver For Solving NS Equation!
 
 # 1 正问题
 
