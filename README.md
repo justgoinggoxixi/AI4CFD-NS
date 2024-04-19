@@ -1,6 +1,6 @@
 # AISolver For Solving NS Equation!
 
-# 1 正问题 + 反问题
+# 正问题 + 反问题
 
 - code: [NS+四大经典流体算例](https://github.com/PredictiveIntelligenceLab/jaxpi)
 - code: [方腔流+高雷诺数](https://github.com/Scien42/NSFnet)
