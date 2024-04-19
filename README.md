@@ -18,3 +18,7 @@
 - code: [ldc高雷诺数](https://github.com/Cao-WenBo/TSONN)
 
 - code: [反问题+NS圆柱尾流](https://github.com/ComputationalDomain/PINNs/tree/main/Cylinder-Wake)
+
+# 算子解NS方程
+
+# 数值离散融合NN解NS方程
