@@ -17,4 +17,4 @@
 - code：[AI+PDE](https://github.com/bc1chen/AI4PDE)
 - code: [ldc高雷诺数](https://github.com/Cao-WenBo/TSONN)
 
-- code:[反问题+NS圆柱尾流](https://github.com/ComputationalDomain/PINNs/tree/main/Cylinder-Wake)
+- code: [反问题+NS圆柱尾流](https://github.com/ComputationalDomain/PINNs/tree/main/Cylinder-Wake)
