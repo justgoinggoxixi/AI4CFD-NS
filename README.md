@@ -1,6 +1,6 @@
 # AISolver For Solving NS Equation!
 
-# 1 正问题
+# 1 正问题 + 反问题
 
 - code: [NS+四大经典流体算例](https://github.com/PredictiveIntelligenceLab/jaxpi)
 - code: [方腔流+高雷诺数](https://github.com/Scien42/NSFnet)
@@ -16,7 +16,4 @@
 - code:  [NS+高雷诺数湍流](https://github.com/Shengfeng233/PINN-for-turbulence)
 - code：[AI+PDE](https://github.com/bc1chen/AI4PDE)
 
-
-# 2 反问题
-
-- 反问题NS圆柱尾流：https://github.com/ComputationalDomain/PINNs/tree/main/Cylinder-Wake
+- code:[反问题+NS圆柱尾流](https://github.com/ComputationalDomain/PINNs/tree/main/Cylinder-Wake)
